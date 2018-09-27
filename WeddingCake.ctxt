@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WeddingCake
+comment1.params=theName\ theFlavour\ thePrice\ theLayers
+comment1.target=WeddingCake(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=newLayers
+comment2.target=void\ setLayers(int)
+comment3.params=
+comment3.target=void\ printWeddingCake()
+numComments=4
